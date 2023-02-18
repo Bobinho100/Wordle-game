@@ -1,12 +1,69 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Wordle</title>
-    <link rel="stylesheet" href="./style.css" />
-  </head>
-  <body>
-    <script src="./wordle.js"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Wordle</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+
+
+
+  <nav class="nav-bar">
+    <h2 id="headWord">Wordle</h2>
+    <div class="nav-links" id = 'lab'>
+
+      <label id='mode' href="#">&#9681;</label>
+      <label id='hint' href="#">&#63;</label>
+      <label id='help' href="#">&#9432;</label>
+    </div>
+  </nav>
+
+
+<main id = 'main'>
+  
+    
+    <section>
+      <div id="board"></div>
+      <button id="button">Start Over</button>
+    </section>
+
+
+      <div id="how">
+    
+        <h5>How to play the game</h5>
+        <ul>
+          <li>Start typing. The letters will appear in the boxes</li>
+          <li>Remove letters with Backspace</li>
+          <li>Hit Enter/Return to submit an answer</li>
+          <li>Letters with green background are in the right spot</li> 
+          <li>Letters in yellow background exist in the word, but are in the wrong spots</li>
+          <li>Letters with gray background do not exist in the word</li>
+          <li>If you need a hint, click the ? icon</li>
+        </ul>
+      </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+  </main>
+  <footer>
+    <span>@Bernard Aire</span>
+  </footer>
+
+  <script src="./wordle.js"></script>
+</body>
+
 </html>
