@@ -64,5 +64,7 @@ In this assignment, you will create a Wordle game with HTML, CSS, and JavaScript
 
 The Result of the final project!
 <img width="1508" alt="Screenshot 2023-07-22 at 8 57 02 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/d803f0f6-4aaa-4acb-9182-e7f2c317ba81">
+Users can get Instructions
+<img width="1508" alt="Screenshot 2023-07-22 at 9 02 06 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/53be9102-14fe-418e-9f83-bc8c72fcd066">
 
 
