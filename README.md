@@ -75,7 +75,17 @@ Users can take a guess
 
 It contains a word 
 
-<img width="1512" alt="Screenshot 2023-07-22 at 9 06 00 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/eabb248f-e706-4c64-afdd-59a0dec69aa8">
+<img width="1512" alt="Screenshot 2023-07-22 at 9 07 32 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/7376f405-d32d-4459-af54-0874fe5171d5">
+
+Also supports dark mode
+<img width="1512" alt="Screenshot 2023-07-22 at 9 09 22 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/2b643801-cf6a-48c1-921f-68a5c8b54bb3">
+
+
+
+
+
+
+
 
 
 
