@@ -73,5 +73,9 @@ When all guesses are wrong
 Users can take a guess
 <img width="1512" alt="Screenshot 2023-07-22 at 9 06 00 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/df135e2a-9e9a-4866-961e-d439b55ed94e">
 
+It contains a word 
+
+<img width="1512" alt="Screenshot 2023-07-22 at 9 06 00 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/eabb248f-e706-4c64-afdd-59a0dec69aa8">
+
 
 
