@@ -80,6 +80,15 @@ It contains a word
 Also supports dark mode
 <img width="1512" alt="Screenshot 2023-07-22 at 9 09 22 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/2b643801-cf6a-48c1-921f-68a5c8b54bb3">
 
+Mobile friendly also
+<img width="1512" alt="Screenshot 2023-07-22 at 9 09 22 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/984b7211-c829-4355-a40f-7b20ef94b270">
+
+Guessed the word correctly and won the round
+<img width="1512" alt="Screenshot 2023-07-22 at 9 12 33 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/46cdd6e8-b3a8-47ab-b8dd-2c20d344b547">
+
+
+
+
 
 
 
