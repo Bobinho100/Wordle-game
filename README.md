@@ -1,8 +1,6 @@
 # Wordle
 
-In this assignment, you will create a Wordle game with HTML, CSS, and JavaScript. To get a feeling of how it works, watch a recording of the game on D2L attached to the assignment. Also, make sure you read the [Notes](#page_with_curl-notes) at the end of this page.
 
----
 
 ## :foot: Steps
 - Add your HTML code to the [index.html](./wordle/index.html) file
@@ -59,7 +57,7 @@ In this assignment, you will create a Wordle game with HTML, CSS, and JavaScript
 - The Moon icon in the menu can toggle the page from Light to Dark theme
 - I didn't use any CSS framework for the layout, but feel free to use one if you want
 - The icons on the menu are HTML characters (`&#9681;` for the Dark Mode icon; `&#63;` for the Hint icon; and `&#9432;` for the Game Instructions icon)
-- You're only allowed to use vanilla JavaScript (JavaScript without any external libraries, such as React) for this assignment
+- I used vanilla javascript
 
 
 The Result of the final project!
@@ -81,7 +79,8 @@ Also supports dark mode
 <img width="1512" alt="Screenshot 2023-07-22 at 9 09 22 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/2b643801-cf6a-48c1-921f-68a5c8b54bb3">
 
 Mobile friendly also
-<img width="1512" alt="Screenshot 2023-07-22 at 9 09 22 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/984b7211-c829-4355-a40f-7b20ef94b270">
+<img width="364" alt="Screenshot 2023-07-22 at 9 11 37 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/2737408e-ea23-4922-b23e-1ff20cf0f19d">
+
 
 Guessed the word correctly and won the round
 <img width="1512" alt="Screenshot 2023-07-22 at 9 12 33 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/46cdd6e8-b3a8-47ab-b8dd-2c20d344b547">
