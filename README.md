@@ -61,6 +61,8 @@ In this assignment, you will create a Wordle game with HTML, CSS, and JavaScript
 - The icons on the menu are HTML characters (`&#9681;` for the Dark Mode icon; `&#63;` for the Hint icon; and `&#9432;` for the Game Instructions icon)
 - You're only allowed to use vanilla JavaScript (JavaScript without any external libraries, such as React) for this assignment
 
+
+The Result of the final project!
 <img width="1508" alt="Screenshot 2023-07-22 at 8 57 02 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/d803f0f6-4aaa-4acb-9182-e7f2c317ba81">
 
 
