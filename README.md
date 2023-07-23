@@ -70,4 +70,8 @@ Users can get Instructions
 When all guesses are wrong
 <img width="1510" alt="Screenshot 2023-07-22 at 9 04 31 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/054115f6-d865-4fb2-8a3d-bfa21664abb5">
 
+Users can take a guess
+<img width="1512" alt="Screenshot 2023-07-22 at 9 06 00 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/df135e2a-9e9a-4866-961e-d439b55ed94e">
+
+
 
