@@ -67,4 +67,7 @@ The Result of the final project!
 Users can get Instructions
 <img width="1508" alt="Screenshot 2023-07-22 at 9 02 06 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/53be9102-14fe-418e-9f83-bc8c72fcd066">
 
+When all guesses are wrong
+<img width="1510" alt="Screenshot 2023-07-22 at 9 04 31 PM" src="https://github.com/Bobinho100/Wordle-game/assets/114113147/054115f6-d865-4fb2-8a3d-bfa21664abb5">
+
 
